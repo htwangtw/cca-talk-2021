@@ -1,3 +1,4 @@
+class: inverse
 layout: true
 
 .footer[Finding the needle in a better haystack - Queen's Univerisity June 2021]
@@ -20,14 +21,16 @@ class: center, middle
 
 # Outline
 
-- What's CCA?
-- Different sub-class of CCA
-- A better haystack?
-- Useful projects and papers
+### What's CCA?
+### Different sub-class of CCA
+### A better haystack?
+### Useful projects and papers
 
 ---
 
 # What's CCA
+
+stuff
 
 ---
 
@@ -49,6 +52,6 @@ class: center, middle
 
 # slides?
 
-- https://github.com/htwangtw/cca-talk-2021
+[htwangtw.github.io/cca-talk-2021](https://htwangtw.github.io/cca-talk-2021)
 
 --
