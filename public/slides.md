@@ -1,73 +1,54 @@
 layout: true
 
-.footer[I am a footer. I would benefit from some styling.]
+.footer[Finding the needle in a better haystack - Queen's Univerisity June 2021]
 
 ---
 
 class: center, middle
 
-# Remark Starter Slides
+# Finding the needle in a better haystack
+
+## An updated guide to canonical correlation analysis
+
+### Hao-Ting Wang
+
+#### University of Sussex
+
+[htwangtw.github.io/cca-talk-2021](https://htwangtw.github.io/cca-talk-2021)
 
 ---
 
-# What's Inside?
+# Outline
 
-- Edit your slides in Markdown (complete with highlighting/preview)
-- Presentation mode with speaker notes
-- Hot reload on save
-- Export to PDF
+- What's CCA?
+- Different sub-class of CCA
+- A better haystack?
+- Useful projects and papers
+
+---
+
+# What's CCA
+
+---
+
+# Different sub-class of CCA
+
+---
+
+# A better haystack?
 
 --
 
-> _Requires an internet connection to present! If you need offline support pull remarkjs & any fonts down._
-
----
-
-# Getting Started
-
-```bash
-git clone https://github.com/aedificatorum/remark-slide-starter.git new-slides
-cd new-slides
-git remote remove origin
-npm install
-npm run present
-```
-
----
-
-# Modifying Content
-
-- Slides live in `public/slides.md`
-- Customise fonts in `public/styles.css`
-
----
-
-# Presenting
-
-- Use the forward & back arrows to navigate
-- Press `c` to open a second window (great for putting on a second monitor)
-- Press `p` to open presenter mode, which shows current slide, next slides, and notes
-
----
-
-# Exporting Slides
-
-- While running the `present` task, run `npm run export`
+## Sample to feature ratio
 
 ---
 
 # More Information
 
-- Slideshow built with `remark` - https://remarkjs.com
-- Served up with `live-server` - https://github.com/tapio/live-server
-- PDF exported by `decktape` - https://github.com/astefanutti/decktape
-
 ---
 
-# Suggestions?
+# slides?
 
-- https://github.com/aedificatorum/remark-slide-starter
+- https://github.com/htwangtw/cca-talk-2021
 
 --
-
-.center[.contain-image[![Continue](https://http.cat/100)]]
