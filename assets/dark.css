@@ -13,15 +13,16 @@ h3 {
   /* margin-bottom: 0; */
 }
 .remark-slide-content { font-size: 1.6em; }
-.remark-slide-content h1 { font-size: 3em; }
-.remark-slide-content h2 { font-size: 2.5em; }
-.remark-slide-content h3 { font-size: 2em; }
+.remark-slide-content h1 { font-size: 2.9em; }
+.remark-slide-content h2 { font-size: 2.3em; }
+.remark-slide-content h3 { font-size: 1.7em; }
 .remark-code, .remark-inline-code { font-family: 'Roboto Mono'; }
 
 /* theme class for slide pages */
 .inverse {
   background: hsl(0, 0%, 15%);
   color: hsl(0, 5%, 75%);
+  line-height: 1.8em;
 }
 .inverse h1 {
   text-align: center;
@@ -51,6 +52,10 @@ h3 {
 /* custom styles for inline span notation */
 span.red {color: hsl(0, 90%, 50%);}
 
+img[alt=image] {
+  height: 600px;
+ }
+
 /* print filling whole paper */
 @media print {
   .remark-slide-scaler {
@@ -60,4 +65,9 @@ span.red {color: hsl(0, 90%, 50%);}
     height: 90vh !important;
     transform: scale(1) !important;
   }
+}
+
+blockquote {
+  border-left: 0.3em solid rgba(0,0,0,0.5);
+  padding: 0 15px;
 }
